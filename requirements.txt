@@ -3,8 +3,9 @@ torch==2.2.2
 scikit-learn==1.4.2
 pandas==2.2.2
 gradio==4.26.0
-fastapi==0.110.0
-uvicorn==0.22.0
 numpy==1.26.4
 accelerate==0.29.1
-pytest==8.2.2         # ✅ 用於 CI 測試
+flask>=3.0.0
+line-bot-sdk>=3.0.0
+python-dotenv>=1.0.0
+pytest==8.2.2

@@ -6,4 +6,7 @@ flagged/
 fraud_bert_model/
 fraud_detection_app.egg-info/
 results/
-.gitignore
+.env
+logs/
+*.pyc
+.pytest_cache/
